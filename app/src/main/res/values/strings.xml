@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">FlowChart App</string>
-    <string name="edit_message">Enter a Message</string>
-    <string name="button_send">Send</string>
+    <string name="text_startQuestion">Does your cat approve?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_cat">I don\'t have a cat</string>
+    <string name="endText_cat">Get a cat.</string>
+    <string name="endText_yes">Do the thing!</string>
+    <string name="endText_no">Obey your overloard. Don\'t do the thing.</string>
 </resources>
